@@ -2,24 +2,6 @@
 
 ## 專案架構說明
 
-```
-104_job_analyzer/
-├── config.py           # 設定檔
-├── main.py            # 主程式進入點
-├── modules/           # 核心功能模組
-│   ├── common.py      # 共用工具和常數
-│   ├── fetcher.py     # 資料抓取模組
-│   ├── processor.py   # 資料處理模組
-│   ├── salary_analyzer.py  # 薪資分析模組
-│   └── skill_analyzer.py   # 技能分析模組
-├── output/           # 輸出資料目錄
-│   ├── 104_salaries_*.csv
-│   ├── 104_skills_*.csv
-│   └── jobs_page_*.csv
-├── tests/           # 測試目錄
-└── requirements.txt # 相依套件清單
-```
-
 ### 共用模組 (`modules/common.py`)
 
 這個模組集中管理所有常用的套件匯入和工具函數，方便其他模組使用。
@@ -83,47 +65,6 @@ from modules.common import logger
    - OUTPUT_DIR：輸出目錄路徑
    - HEADERS：HTTP 請求標頭
    - DEFAULT_PARAMS：預設請求參數
-
-## 功能模組說明
-
-### 1. 資料抓取模組 (`fetcher.py`)
-- 負責從104人力銀行網站抓取職缺資訊
-- 處理 HTTP 請求和回應
-- 實作資料抓取的重試機制
-
-### 2. 資料處理模組 (`processor.py`)
-- 清理和轉換原始職缺資料
-- 標準化資料格式
-- 過濾無效資料
-
-### 3. 薪資分析模組 (`salary_analyzer.py`)
-- 分析職位薪資範圍
-- 計算產業薪資統計
-- 生成薪資報表
-
-### 4. 技能分析模組 (`skill_analyzer.py`)
-- 分析職位要求技能
-- 統計熱門技能趨勢
-- 產生技能需求報告
-
-## 輸出檔案說明
-
-### 資料檔案
-- `104_salaries_YYYYMMDD.csv`: 薪資分析結果
-- `104_skills_YYYYMMDD.csv`: 技能分析結果
-- `jobs_page_N_YYYYMMDD.csv`: 原始職缺資料
-
-## 使用方式
-
-1. 安裝相依套件：
-```bash
-pip install -r requirements.txt
-```
-
-2. 執行分析：
-```bash
-python main.py
-```
 
 ## 注意事項
 

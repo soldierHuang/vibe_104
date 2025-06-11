@@ -1,0 +1,401 @@
+﻿jobType,jobNo,jobName,jobNameSnippet,jobRole,jobRo,jobAddrNo,jobAddrNoDesc,jobAddress,description,descWithoutHighlight,optionEdu,period,periodDesc,applyCnt,applyType,applyDesc,custNo,custName,coIndustry,coIndustryDesc,salaryLow,salaryHigh,salaryDesc,s10,appearDate,appearDateDesc,optionZone,isApply,applyDate,userApplyCount,isSave,descSnippet,tags,landmark,link,jobsource,jobNameRaw,custNameRaw,lon,lat,remoteWorkType,major,salaryType,dist,mrt,mrtDesc,isActivelyHiring
+1,10437100,軟體測試工程師 Software QA Engineer,軟體測試工程師 Software QA Engineer,1,1,6001002011,新北市新店區,北新路三段221號8樓,"◇ 同樣歡迎由RD轉為自動化測試的人員，因為你已經了解&quot;RD&quot;可能會犯錯的盲點，更全面找到系統可能的問題，讓品質越來穩定。
+
+工作內容：
+1. 撰寫測試列表：依產品功能與文件，撰寫測試項目列.
+2. 產品系統測試：進行系統、功能、介面與相容性測試 
+3. 產品數值測試：進行前端顯示與後端數值相關串連測試 
+4. 產品平衡建議：適時提出有效且有利於產品的優化建議意見
+5. 負責產品的測試，制定測試計畫，有效保證產品線品質
+6. 整理並分享測試計畫與測試手法，讓團隊成員能夠 Reuse原來的 Test case，優化成更佳的 Test case
+7. 提供測試報告和建議以保障產品可測性和架構合理性.
+
+Better have：
+◇ QA工作經驗3-5年，具備Web, APP(Android, iOS)測試經驗
+◇ 熟悉 API 測試工具 (Postman, Swagger etc.)
+◇ 程式撰寫能力 (Python, Java, JavaScript etc.)
+◇ 熟悉自動化測試框架 (Selenium, Appium, Cypress, Robot framework etc.)
+◇ 熟悉版控工具 (Git)
+◇ 熟悉關聯式/非關聯式資料庫 (PostgreSQL/ MongoDB)
+◇ 熟悉效能/壓力/負載測試工具與方法 (Jmeter, Locust etc.)
+◇ 熟悉網路除錯工具 (Fiddler, Wireshark)","◇ 同樣歡迎由RD轉為自動化測試的人員，因為你已經了解""RD""可能會犯錯的盲點，更全面找到系統可能的問題，讓品質越來穩定。
+
+工作內容：
+1. 撰寫測試列表：依產品功能與文件，撰寫測試項目列.
+2. 產品系統測試：進行系統、功能、介面與相容性測試 
+3. 產品數值測試：進行前端顯示與後端數值相關串連測試 
+4. 產品平衡建議：適時提出有效且有利於產品的優化建議意見
+5. 負責產品的測試，制定測試計畫，有效保證產品線品質
+6. 整理並分享測試計畫與測試手法，讓團隊成員能夠 Reuse原來的 Test case，優化成更佳的 Test case
+7. 提供測試報告和建議以保障產品可測性和架構合理性.
+
+Better have：
+◇ QA工作經驗3-5年，具備Web, APP(Android, iOS)測試經驗
+◇ 熟悉 API 測試工具 (Postman, Swagger etc.)
+◇ 程式撰寫能力 (Python, Java, JavaScript etc.)
+◇ 熟悉自動化測試框架 (Selenium, Appium, Cypress, Robot framework etc.)
+◇ 熟悉版控工具 (Git)
+◇ 熟悉關聯式/非關聯式資料庫 (PostgreSQL/ MongoDB)
+◇ 熟悉效能/壓力/負載測試工具與方法 (Jmeter, Locust etc.)
+◇ 熟悉網路除錯工具 (Fiddler, Wireshark)",大學,04,3年以上,00014,3,11~30人應徵,130000000108821,希格斯資訊科技有限公司,1001001002,電腦軟體服務業,0000000,0000000,待遇面議,10,20250610,6/10,0,0,,0,0,"◇ 同樣歡迎由RD轉為自動化測試的人員，因為你已經了解&quot;RD&quot;可能會犯錯的盲點，更全面找到系統可能的問題，讓品質越來穩定。
+
+工作內容：
+1. 撰寫測試列表：依產品功能與文件，撰寫測試項目列.
+2. 產品系統測試：進行系統、功能、介面與相容性測試 
+3. 產品數值測試：進行前端顯示與後端數值相關串連測試 
+4. 產品平衡建議：適時提出有效且有利於產品的優化建議意見
+5. 負責產品的測試，制定測試計畫，有效保證產品線品質
+6. 整理並分享測試計畫與測試手法，讓團隊成員能夠 Reuse原來的 Test case，優化成更佳的 Test case
+7. 提供測試報告和建議以保障產品可測性和架構合理性.
+
+Better have：
+◇ QA工作經驗3-5年，具備Web, APP(Android, iOS)測試經驗
+◇ 熟悉 API 測試工具 (Postman, Swagger etc.)
+◇ 程式撰寫能力 (Python, Java, JavaScript etc.)
+◇ 熟悉自動化測試框架 (Selenium, Appium, Cypress, Robot framework etc.)
+◇ 熟悉版控工具 (Git)
+◇ 熟悉關聯式/非關聯式資料庫 (PostgreSQL/ MongoDB)
+◇ 熟悉效能/壓力/負載測試工具與方法 (Jmeter, Locust etc.)
+◇ 熟悉網路除錯工具 (Fiddler, Wireshark)",[],距捷運大坪林站約240公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/67pbg?channel=104rpt&jobsource=hotjob_chr', 'job': '//www.104.com.tw/job/67pbg?jobsource=hotjob_chr', 'cust': '//www.104.com.tw/company/1a2x6bkb9x?jobsource=hotjob_chr'}",hotjob_chr,軟體測試工程師 Software QA Engineer,希格斯資訊科技有限公司,121.5406615,24.9849956,0,[],,0.24,99001003005,捷運大坪林站,True
+1,14659942,[歡迎新鮮人] JR0272422 LTD Advanced Device Development Engineer,[歡迎新鮮人] JR0272422 LTD Advanced Device Development Engineer,1,1,6001006001,新竹市,東區中華路二段190號7F (Ambassador Hotel building),"
+**Job Description
+This position is in the Logic Technology Development team working in one of the most advanced semiconductor cleanroom facilities in the world. You will be designing, executing, and analyzing experiments necessary to meet engineering specifications for their process.
+
+**What we offer:
+We foster a collaborative, supportive, and exciting environment where the brightest minds in the world come together to achieve exceptional results. We give you opportunities to transform technology and create a better future, by delivering products that make the world a better place. Intel Corporation Core Values here.
+
+
+**Benefits:
+We provide benefits that promote a healthy, enjoyable life: excellent medical plans, wellness programs, and amenities, time off, recreational activities, discounts on various products and services, and many more creative rewards that make Intel a Great Place to Work. Find more information about our Amazing Benefits here.
+
+**What we do:
+The Logic Technology Development (LTD) organization delivers the latest process technology innovations to drive Intel&#039;s amazing product roadmap. Look at Life Inside Intel here
+
+Job Responsibilities include but not limited to:
+
+• Develops algorithms and applications, performs large scale experimentation, builds data driven apps to translate data into intelligence, and develops solutions for solving business problems using coding.
+• Incorporates predictive modeling, statistics and other analysis techniques for collecting, exploring, interpreting and extracting insights from structured and unstructured data.
+• Organizes, interprets and structures insights from data, detects data anomalies and makes corrections.
+• Performs descriptive statistical analysis, develops visualizations, applications, dashboards, or presentations and communicates insights in a clear and effective way to help the organization with better decision making.
+• Supports troubleshooting service offerings using proprietary analytical platforms, commercial tools and custom scripts.
+• Drives the design, development and optimization of artificial intelligence/machine learning, deep learning training and inference frameworks, contributes to the research and development of data science activities and supports product development efforts as required.
+• Develops and programs methods, processes, and systems to consolidate and analyze diverse big data sources, establishing standard methodologies for data science including modeling, coding, analytics, and experimentation.
+• Explores, compiles, and collects data from new or known sources, sometimes in partnership with technical staff/engineers to derive useful insights and/or make predictions.
+• Works with development teams and business units to ensure models are scalable and can be implemented as part of the delivered solution across clients.
+
+Additional Responsibilities:
+
+• Development and use of software such as Python, SQL, Visual Basic, C+/C++, JMP, JSL script that automate electrical and physical data analysis for the device characterization to facilitate the device targeting and technology development.
+• Electrical measurement, validation, and debug of new Test Chip silicon.
+• Collaborating with process modules, process integration, reliability, circuit design, and electrical test equipment groups to understand and define requirements for new state of art Test Chips and to develop test methodologies
+
+
+","
+**Job Description
+This position is in the Logic Technology Development team working in one of the most advanced semiconductor cleanroom facilities in the world. You will be designing, executing, and analyzing experiments necessary to meet engineering specifications for their process.
+
+**What we offer:
+We foster a collaborative, supportive, and exciting environment where the brightest minds in the world come together to achieve exceptional results. We give you opportunities to transform technology and create a better future, by delivering products that make the world a better place. Intel Corporation Core Values here.
+
+
+**Benefits:
+We provide benefits that promote a healthy, enjoyable life: excellent medical plans, wellness programs, and amenities, time off, recreational activities, discounts on various products and services, and many more creative rewards that make Intel a Great Place to Work. Find more information about our Amazing Benefits here.
+
+**What we do:
+The Logic Technology Development (LTD) organization delivers the latest process technology innovations to drive Intel's amazing product roadmap. Look at Life Inside Intel here
+
+Job Responsibilities include but not limited to:
+
+• Develops algorithms and applications, performs large scale experimentation, builds data driven apps to translate data into intelligence, and develops solutions for solving business problems using coding.
+• Incorporates predictive modeling, statistics and other analysis techniques for collecting, exploring, interpreting and extracting insights from structured and unstructured data.
+• Organizes, interprets and structures insights from data, detects data anomalies and makes corrections.
+• Performs descriptive statistical analysis, develops visualizations, applications, dashboards, or presentations and communicates insights in a clear and effective way to help the organization with better decision making.
+• Supports troubleshooting service offerings using proprietary analytical platforms, commercial tools and custom scripts.
+• Drives the design, development and optimization of artificial intelligence/machine learning, deep learning training and inference frameworks, contributes to the research and development of data science activities and supports product development efforts as required.
+• Develops and programs methods, processes, and systems to consolidate and analyze diverse big data sources, establishing standard methodologies for data science including modeling, coding, analytics, and experimentation.
+• Explores, compiles, and collects data from new or known sources, sometimes in partnership with technical staff/engineers to derive useful insights and/or make predictions.
+• Works with development teams and business units to ensure models are scalable and can be implemented as part of the delivered solution across clients.
+
+Additional Responsibilities:
+
+• Development and use of software such as Python, SQL, Visual Basic, C+/C++, JMP, JSL script that automate electrical and physical data analysis for the device characterization to facilitate the device targeting and technology development.
+• Electrical measurement, validation, and debug of new Test Chip silicon.
+• Collaborating with process modules, process integration, reliability, circuit design, and electrical test equipment groups to understand and define requirements for new state of art Test Chips and to develop test methodologies
+
+
+",大學,00,經歷不拘,00026,3,11~30人應徵,16432460000,Intel_美商英特爾亞太科技有限公司台灣分公司,1001003001,電腦及其週邊設備製造業,0000000,0000000,待遇面議,10,20250606,6/06,4104,0,,0,0,"
+**Job Description
+This position is in the Logic Technology Development team working in one of the most advanced semiconductor cleanroom facilities in the world. You will be designing, executing, and analyzing experiments necessary to meet engineering specifications for their process.
+
+**What we offer:
+We foster a collaborative, supportive, and exciting environment where the brightest minds in the world come together to achieve exceptional results. We give you opportunities to transform technology and create a better future, by delivering products that make the world a better place. Intel Corporation Core Values here.
+
+
+**Benefits:
+We provide benefits that promote a healthy, enjoyable life: excellent medical plans, wellness programs, and amenities, time off, recreational activities, discounts on various products and services, and many more creative rewards that make Intel a Great Place to Work. Find more information about our Amazing Benefits here.
+
+**What we do:
+The Logic Technology Development (LTD) organization delivers the latest process technology innovations to drive Intel&#039;s amazing product roadmap. Look at Life Inside Intel here
+
+Job Responsibilities include but not limited to:
+
+• Develops algorithms and applications, performs large scale experimentation, builds data driven apps to translate data into intelligence, and develops solutions for solving business problems using coding.
+• Incorporates predictive modeling, statistics and other analysis techniques for collecting, exploring, interpreting and extracting insights from structured and unstructured data.
+• Organizes, interprets and structures insights from data, detects data anomalies and makes corrections.
+• Performs descriptive statistical analysis, develops visualizations, applications, dashboards, or presentations and communicates insights in a clear and effective way to help the organization with better decision making.
+• Supports troubleshooting service offerings using proprietary analytical platforms, commercial tools and custom scripts.
+• Drives the design, development and optimization of artificial intelligence/machine learning, deep learning training and inference frameworks, contributes to the research and development of data science activities and supports product development efforts as required.
+• Develops and programs methods, processes, and systems to consolidate and analyze diverse big data sources, establishing standard methodologies for data science including modeling, coding, analytics, and experimentation.
+• Explores, compiles, and collects data from new or known sources, sometimes in partnership with technical staff/engineers to derive useful insights and/or make predictions.
+• Works with development teams and business units to ensure models are scalable and can be implemented as part of the delivered solution across clients.
+
+Additional Responsibilities:
+
+• Development and use of software such as Python, SQL, Visual Basic, C+/C++, JMP, JSL script that automate electrical and physical data analysis for the device characterization to facilitate the device targeting and technology development.
+• Electrical measurement, validation, and debug of new Test Chip silicon.
+• Collaborating with process modules, process integration, reliability, circuit design, and electrical test equipment groups to understand and define requirements for new state of art Test Chips and to develop test methodologies
+
+
+","{'zoneForeign': {'desc': '外商公司', 'param': 5}, 'emp': {'desc': '員工1000人', 'param': '8'}}",,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8q7om?channel=104rpt&jobsource=hotjob_chr', 'job': '//www.104.com.tw/job/8q7om?jobsource=hotjob_chr', 'cust': '//www.104.com.tw/company/7jrgna8?jobsource=hotjob_chr'}",hotjob_chr,[歡迎新鮮人] JR0272422 LTD Advanced Device Development Engineer,Intel_美商英特爾亞太科技有限公司台灣分公司,120.9777665,24.8061248,0,"['電機電子工程相關', '資訊工程相關']",,,,,True
+0,14673199,Python 應用工程師,<em class='b-txt--highlight'>Python</em> 應用工程師,1,1,6001001010,台北市內湖區,瑞光路168號9樓,"1. 以 [[[Python]]] 語言編寫blender腳本或外掛(i.e. Blender [[[Python]]] API），對室內 CAD（如 DWG、DXF、IFC、OBJ 等）檔案進行解析。
+
+2. 根據客戶需求或專案目標，設計並實作室內模型的自動化分割、分","1. 以 Python 語言編寫blender腳本或外掛(i.e. Blender Python API），對室內 CAD（如 DWG、DXF、IFC、OBJ 等）檔案進行解析。
+
+2. 根據客戶需求或專案目標，設計並實作室內模型的自動化分割、分",專科,00,經歷不拘,00003,1,0~5人應徵,130000000238107,真建築科技股份有限公司,1001001003,網際網路相關業,0000000,0000000,待遇面議,10,20250603,6/03,0,0,,0,0,"1. 以 <em class='b-txt--highlight'>Python</em> 語言編寫blender腳本或外掛(i.e. Blender <em class='b-txt--highlight'>Python</em> API），對室內 CAD（如 DWG、DXF、IFC、OBJ 等）檔案進行解析。
+
+2. 根據客戶需求或專案目標，設計並實作室內模型的自動化分割、分","{'emp': {'desc': '員工12人', 'param': '3'}}",,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8qhwv?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8qhwv?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bn317?jobsource=n104bank2'}",,Python 應用工程師,真建築科技股份有限公司,121.5786041,25.0738908,0,[],,,,,False
+0,10505210,Python工程師,<em class='b-txt--highlight'>Python</em>工程師,1,1,6001001004,台北市松山區,敦化北路207號8F-13,"- 熟悉[[[Python]]]語言撰寫實務經驗1年以上。
+- 可獨立或與團隊合作，工作態度積極、負責，能配合公司規定。
+- 依不同經驗及能力來負責系統之分析(SA)、設計(SD)以及程式撰寫(PG)。
+- 配合公司專案需求至客戶端駐點服務。","- 熟悉Python語言撰寫實務經驗1年以上。
+- 可獨立或與團隊合作，工作態度積極、負責，能配合公司規定。
+- 依不同經驗及能力來負責系統之分析(SA)、設計(SD)以及程式撰寫(PG)。
+- 配合公司專案需求至客戶端駐點服務。",專科,02,1年以上,00006,2,6~10人應徵,27571256000,緯德科技股份有限公司 (TechLink Corporation),1001001002,電腦軟體服務業,0000000,0000000,待遇面議,10,20250609,6/09,0,0,,0,0,"- 熟悉<em class='b-txt--highlight'>Python</em>語言撰寫實務經驗1年以上。
+- 可獨立或與團隊合作，工作態度積極、負責，能配合公司規定。
+- 依不同經驗及能力來負責系統之分析(SA)、設計(SD)以及程式撰寫(PG)。
+- 配合公司專案需求至客戶端駐點服務。","{'emp': {'desc': '員工220人', 'param': '6'}}",,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/695ve?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/695ve?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/cnz7pa8?jobsource=n104bank2'}",,Python工程師,緯德科技股份有限公司 (TechLink Corporation),121.5496155,25.0580023,0,[],,,,,False
+0,14337059,東海大學人工智慧中心誠徵Python開發工程師,東海大學人工智慧中心誠徵<em class='b-txt--highlight'>Python</em>開發工程師,1,1,6001008007,台中市西屯區,台灣大道四段1727號(東海大學)人工智慧中心,"展[[[Python]]]的功能，提高開發效率。
+
+
+*加分項目:
+-數據分析、人工智慧：
+理解數據分析和LLM的基礎知識，熟悉相關工具，能夠開發相應的應用程式。 具備Langchain、AI-Agent和GraphRAG等技術的實踐經驗尤佳。
+
+-團隊協作能","展Python的功能，提高開發效率。
+
+
+*加分項目:
+-數據分析、人工智慧：
+理解數據分析和LLM的基礎知識，熟悉相關工具，能夠開發相應的應用程式。 具備Langchain、AI-Agent和GraphRAG等技術的實踐經驗尤佳。
+
+-團隊協作能",大學,00,經歷不拘,00004,1,0~5人應徵,52004800005,東海大學,1005001009,其他教育服務業,0040000,0068000,"月薪40,000~68,000元",50,20250520,5/20,0,0,,0,0,"展<em class='b-txt--highlight'>Python</em>的功能，提高開發效率。
+
+
+*加分項目:
+-數據分析、人工智慧：
+理解數據分析和LLM的基礎知識，熟悉相關工具，能夠開發相應的應用程式。 具備Langchain、AI-Agent和GraphRAG等技術的實踐經驗尤佳。
+
+-團隊協作能",[],,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8jajn?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8jajn?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/nw2bchx?jobsource=n104bank2'}",,東海大學人工智慧中心誠徵Python開發工程師,東海大學,120.6135319,24.183287,0,"['資訊工程相關', '數理統計相關', '其他數學及電算機科學相關']",M,,,,True
+0,10507922,Python工程師(PN001),<em class='b-txt--highlight'>Python</em>工程師(PN001),1,1,6001001004,台北市松山區,復興北路191號5F-1,"+ 具備 [[[Python]]] 實務經驗
++ 工作態度積極、負責，重視團隊溝通合作 
++ 不當獨行俠，行有餘力時會主動支援及協助
+
+加分 
+++ 有使用 [[[Python]]] 開發的開源程式碼專案可供參考 
+++ 有撰寫 Unit Test 經驗","+ 具備 Python 實務經驗
++ 工作態度積極、負責，重視團隊溝通合作 
++ 不當獨行俠，行有餘力時會主動支援及協助
+
+加分 
+++ 有使用 Python 開發的開源程式碼專案可供參考 
+++ 有撰寫 Unit Test 經驗",專科,00,經歷不拘,00006,2,6~10人應徵,130000000116723,祐安資訊有限公司,1001001002,電腦軟體服務業,0000000,0000000,待遇面議,10,20250609,6/09,0,0,,0,0,"+ 具備 <em class='b-txt--highlight'>Python</em> 實務經驗
++ 工作態度積極、負責，重視團隊溝通合作 
++ 不當獨行俠，行有餘力時會主動支援及協助
+
+加分 
+++ 有使用 <em class='b-txt--highlight'>Python</em> 開發的開源程式碼專案可供參考 
+++ 有撰寫 Unit Test 經驗","{'emp': {'desc': '員工60人', 'param': '5'}}",距捷運南京復興站約370公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/697yq?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/697yq?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bkhdf?jobsource=n104bank2'}",,Python工程師(PN001),祐安資訊有限公司,121.5443432,25.0552806,0,[],,0.37,99001001011,捷運南京復興站,False
+2,14520697,Python Automation Engineer,<em class='b-txt--highlight'>Python</em> Automation Engineer,1,1,6001001001,台北市中正區,,"•	Author automation workflows in [[[Python]]], the Robot framework, and Powershell to make sure a Windows system with BMC, UEFI,","•	Author automation workflows in Python, the Robot framework, and Powershell to make sure a Windows system with BMC, UEFI,",專科,04,3年以上,00010,2,6~10人應徵,130000000074273,新加坡商優思特股份有限公司台灣分公司,1008003001,工商顧問服務業,0000000,0000000,待遇面議,10,20250611,6/11,4096,0,,0,0,"•	Author automation workflows in <em class='b-txt--highlight'>Python</em>, the Robot framework, and Powershell to make sure a Windows system with BMC, UEFI,","{'emp': {'desc': '員工30000人', 'param': '8'}, 'remote': {'desc': '遠端工作'}}",,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8n88p?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8n88p?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bjkm9?jobsource=n104bank2'}",,Python Automation Engineer,新加坡商優思特股份有限公司台灣分公司,121.5198716,25.0421407,1,"['電機電子工程相關', '數學及電算機科學學科類', '資訊管理相關']",,,,,False
+2,12261739,Smart Device Automation Test Engineer - Python (工作地點：新店),Smart Device Automation Test Engineer - <em class='b-txt--highlight'>Python</em> (工作地點：新店),1,1,6001002011,新北市新店區,新店大坪林站附近, This is an excellent opportunity for an individual with a strong foundation in [[[Python]]] and a passion for quality assurance to, This is an excellent opportunity for an individual with a strong foundation in Python and a passion for quality assurance to,大學,00,經歷不拘,00006,2,6~10人應徵,130000000126292,印度商威普羅股份有限公司台灣分公司,1001001001,電腦系統整合服務業,0050000,0075000,"月薪50,000~75,000元",50,20250609,6/09,4104,0,,0,0, This is an excellent opportunity for an individual with a strong foundation in <em class='b-txt--highlight'>Python</em> and a passion for quality assurance to,"{'zoneForeign': {'desc': '外商公司', 'param': 5}, 'emp': {'desc': '員工200000人', 'param': '8'}}",,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/7at7v?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/7at7v?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bkor8?jobsource=n104bank2'}",,Smart Device Automation Test Engineer - Python (工作地點：新店),印度商威普羅股份有限公司台灣分公司,121.541351,24.982899,0,[],M,,,,True
+0,14582871,Python工程師(ETL),<em class='b-txt--highlight'>Python</em>工程師(ETL),1,1,6001001001,台北市中正區,,"*熟pyspark及datastage尤佳
+
+*金融相關產業
+
+","*熟pyspark及datastage尤佳
+
+*金融相關產業
+
+",專科,00,經歷不拘,00004,1,0~5人應徵,28782693000,康翔科技股份有限公司,1001001006,其它軟體及網路相關業,0000000,0000000,待遇面議,10,20250606,6/06,0,0,,0,0,"*熟pyspark及datastage尤佳
+
+*金融相關產業
+
+","{'emp': {'desc': '員工30人', 'param': '4'}}",,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8ok7r?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8ok7r?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/d80h020?jobsource=n104bank2'}",,Python工程師(ETL),康翔科技股份有限公司,121.5198716,25.0421407,0,[],,,,,True
+2,14507547,Software Engineer (Android/Python),Software Engineer (Android/<em class='b-txt--highlight'>Python</em>),1,1,6001001001,台北市中正區,忠孝東路一段9號8樓," development, you&#039;ll contribute to data engineering and analysis efforts, utilizing [[[Python]]] as needed, helping us unlock"," development, you'll contribute to data engineering and analysis efforts, utilizing Python as needed, helping us unlock",大學,05,4年以上,00002,1,0~5人應徵,130000000125920,百睿達有限公司,1002012001,自動控制相關業,0000000,0000000,待遇面議,10,20250610,6/10,4096,0,,0,0," development, you&#039;ll contribute to data engineering and analysis efforts, utilizing <em class='b-txt--highlight'>Python</em> as needed, helping us unlock",{'remote': {'desc': '遠端工作'}},距捷運善導寺站約40公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8my3f?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8my3f?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bkogw?jobsource=n104bank2'}",,Software Engineer (Android/Python),百睿達有限公司,121.5236634,25.0450205,2,['資訊工程相關'],,0.04,99001005013,捷運善導寺站,False
+0,13918237,python工程師,<em class='b-txt--highlight'>python</em>工程師,1,1,6001002003,新北市板橋區,,"1. 負責軟體之分析、設計以及程式撰寫。
+2. 規劃執行軟體架構及模組之設計，並控管軟體設計進度。
+3. 進行軟體之測試與修改。
+4. 規劃、執行與維護量產的產品。
+5. 協助研發軟體新技術與新工具。
+6. 管控軟體開發成本。
+7. 撰寫量化交易工具。","1. 負責軟體之分析、設計以及程式撰寫。
+2. 規劃執行軟體架構及模組之設計，並控管軟體設計進度。
+3. 進行軟體之測試與修改。
+4. 規劃、執行與維護量產的產品。
+5. 協助研發軟體新技術與新工具。
+6. 管控軟體開發成本。
+7. 撰寫量化交易工具。",專科,00,經歷不拘,00007,2,6~10人應徵,130000000228500,盈萃科技股份有限公司,1001001002,電腦軟體服務業,0000000,0000000,待遇面議,10,20250611,6/11,0,0,,0,0,"1. 負責軟體之分析、設計以及程式撰寫。
+2. 規劃執行軟體架構及模組之設計，並控管軟體設計進度。
+3. 進行軟體之測試與修改。
+4. 規劃、執行與維護量產的產品。
+5. 協助研發軟體新技術與新工具。
+6. 管控軟體開發成本。
+7. 撰寫量化交易工具。","{'emp': {'desc': '員工10人', 'param': '3'}}",,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8abdp?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8abdp?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bmvmc?jobsource=n104bank2'}",,python工程師,盈萃科技股份有限公司,121.4618415,25.0114095,0,[],,,,,False
+0,14198461,Python工程師,<em class='b-txt--highlight'>Python</em>工程師,1,1,6001008007,台中市西屯區,文心路三段241號17樓之5,"1.網站前後台功能維護與功能開發。
+2.軟體架構及功能模組化設計。
+3.討論、規劃任務時程與需求單位合作。
+4.第三方 API 進行串接，開發新功能並整合外部服務。
+5.撰寫相關開發文件。","1.網站前後台功能維護與功能開發。
+2.軟體架構及功能模組化設計。
+3.討論、規劃任務時程與需求單位合作。
+4.第三方 API 進行串接，開發新功能並整合外部服務。
+5.撰寫相關開發文件。",大學,02,1年以上,00006,2,6~10人應徵,130000000081709,久大行銷股份有限公司,1006003001,廣告行銷公關業,0040000,0060000,"月薪40,000~60,000元",50,20250610,6/10,0,0,,0,0,"1.網站前後台功能維護與功能開發。
+2.軟體架構及功能模組化設計。
+3.討論、規劃任務時程與需求單位合作。
+4.第三方 API 進行串接，開發新功能並整合外部服務。
+5.撰寫相關開發文件。","{'emp': {'desc': '員工120人', 'param': '6'}}",距捷運文華高中站約240公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8gblp?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8gblp?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bjqct?jobsource=n104bank2'}",,Python工程師,久大行銷股份有限公司,120.6629402,24.1725563,0,[],M,0.24,99003001007,捷運文華高中站,True
+0,12354332,P7-Python資料工程師,P7-<em class='b-txt--highlight'>Python</em>資料工程師,1,1,6001001005,台北市大安區,信義路四段184號6樓,"本公司是國內搜尋及語意分析市占率最高的廠商，專注研發非結構資料之數據處理，尋找熟悉[[[Python]]]及物件導向設計的人才加入。工作主要為開發與維運資料產線，搜集語料、資料儲存處理，並提供API服務供下游服務使用。
+
+工作內容如下：
+- 資料搜集程式開發","本公司是國內搜尋及語意分析市占率最高的廠商，專注研發非結構資料之數據處理，尋找熟悉Python及物件導向設計的人才加入。工作主要為開發與維運資料產線，搜集語料、資料儲存處理，並提供API服務供下游服務使用。
+
+工作內容如下：
+- 資料搜集程式開發",大學,00,經歷不拘,00007,2,6~10人應徵,130000000072956,意藍資訊股份有限公司,1001001003,網際網路相關業,0035000,0045000,"月薪35,000~45,000元",50,20250611,6/11,0,0,,0,0,"本公司是國內搜尋及語意分析市占率最高的廠商，專注研發非結構資料之數據處理，尋找熟悉<em class='b-txt--highlight'>Python</em>及物件導向設計的人才加入。工作主要為開發與維運資料產線，搜集語料、資料儲存處理，並提供API服務供下游服務使用。
+
+工作內容如下：
+- 資料搜集程式開發","{'emp': {'desc': '員工114人', 'param': '6'}}",距捷運信義安和站約170公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/7csnw?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/7csnw?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bjjlo?jobsource=n104bank2'}",,P7-Python資料工程師,意藍資訊股份有限公司,121.5513322,25.0330306,0,"['數學及電算機科學學科類', '資訊管理相關']",M,0.17,99001002003,捷運信義安和站,True
+0,13769195,Python後端工程師,<em class='b-txt--highlight'>Python</em>後端工程師,1,1,6001008006,台中市北屯區,文心路四段752之2號(宏台企業大樓3樓),"Familiar with:
+
+1. Web API exp.
+
+2. Linux exp.
+
+3. Git
+
+4. 熟[[[python]]]或Django 或 寫過template 語言
+
+5. 優秀的作品集 (能展示您過去的開發案例與決策思考過程)","Familiar with:
+
+1. Web API exp.
+
+2. Linux exp.
+
+3. Git
+
+4. 熟python或Django 或 寫過template 語言
+
+5. 優秀的作品集 (能展示您過去的開發案例與決策思考過程)",大學,03,2年以上,00003,1,0~5人應徵,130000000220061,新加坡商冕創有限公司,1001001003,網際網路相關業,0000000,0000000,待遇面議,10,20250611,6/11,0,0,,0,0,"Familiar with:
+
+1. Web API exp.
+
+2. Linux exp.
+
+3. Git
+
+4. 熟<em class='b-txt--highlight'>python</em>或Django 或 寫過template 語言
+
+5. 優秀的作品集 (能展示您過去的開發案例與決策思考過程)",[],距捷運文心崇德站約350公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/874dn?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/874dn?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bmp3x?jobsource=n104bank2'}",,Python後端工程師,新加坡商冕創有限公司,120.6884834,24.1715934,0,[],,0.35,99003001005,捷運文心崇德站,True
+0,14653771,Backend Engineer(Python),Backend Engineer(<em class='b-txt--highlight'>Python</em>),1,1,6001001010,台北市內湖區,," [[[Python]]] 相關套件以及系統程式（Linux）
+-有 AWS 雲端服務使用經驗，嫻熟且能採用業界 Best Practices 來建構服務網路架構與通訊協定
+-熟悉後端開發技術，如 Web 服務、資料庫、自動化測試、並行程式開發
+-例如 FastAPI"," Python 相關套件以及系統程式（Linux）
+-有 AWS 雲端服務使用經驗，嫻熟且能採用業界 Best Practices 來建構服務網路架構與通訊協定
+-熟悉後端開發技術，如 Web 服務、資料庫、自動化測試、並行程式開發
+-例如 FastAPI",大學,04,3年以上,00004,1,0~5人應徵,130000000240108,百仕聯股份有限公司,1009001001,人力仲介代徵,1200000,9999999,"年薪1,200,000元以上",60,20250611,6/11,0,0,,0,0," <em class='b-txt--highlight'>Python</em> 相關套件以及系統程式（Linux）
+-有 AWS 雲端服務使用經驗，嫻熟且能採用業界 Best Practices 來建構服務網路架構與通訊協定
+-熟悉後端開發技術，如 Web 服務、資料庫、自動化測試、並行程式開發
+-例如 FastAPI","{'emp': {'desc': '員工10人', 'param': '3'}, 'remote': {'desc': '遠端工作'}}",,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8q2x7?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8q2x7?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bn4ks?jobsource=n104bank2'}",,Backend Engineer(Python),百仕聯股份有限公司,121.5909027,25.0689422,2,[],Y,,,,True
+0,13892468,Python 軟體工程師,<em class='b-txt--highlight'>Python</em> 軟體工程師,1,1,6001001001,台北市中正區,忠孝東路一段9號4樓,"職務內容：
+1. Restful API及後端程式開發
+2. [[[Python]]]應用程式開發 (Django)
+3. AI Agent開發
+4. 完成主管交付之工作內容
+
+必要條件：
+1. 熟悉[[[Python]]]程式語言 (Django framework)","職務內容：
+1. Restful API及後端程式開發
+2. Python應用程式開發 (Django)
+3. AI Agent開發
+4. 完成主管交付之工作內容
+
+必要條件：
+1. 熟悉Python程式語言 (Django framework)",大學,04,3年以上,00007,2,6~10人應徵,130000000043434,核桃運算股份有限公司,1001001002,電腦軟體服務業,0000000,0000000,待遇面議,10,20250611,6/11,0,0,,0,0,"職務內容：
+1. Restful API及後端程式開發
+2. <em class='b-txt--highlight'>Python</em>應用程式開發 (Django)
+3. AI Agent開發
+4. 完成主管交付之工作內容
+
+必要條件：
+1. 熟悉<em class='b-txt--highlight'>Python</em>程式語言 (Django framework)","{'emp': {'desc': '員工50人', 'param': '5'}}",距捷運善導寺站約40公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/89rhw?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/89rhw?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6biwtm?jobsource=n104bank2'}",,Python 軟體工程師,核桃運算股份有限公司,121.5236634,25.0450205,0,[],,0.04,99001005013,捷運善導寺站,False
+0,12904834,後端工程師（Python）,後端工程師（<em class='b-txt--highlight'>Python</em>）,1,1,6001001011,台北市南港區,三重路19之6號7樓," 設計與開發
+•撰寫產品規格書與相關技術說明文件
+•協作提升程式碼品質、穩定性與風格一致性
+•參與團隊 brainstorming，貢獻實作想法並實踐概念產品
+
+Required:
+•熟悉 [[[Python]]],包含 Numpy 、 Pandas 等套件與"," 設計與開發
+•撰寫產品規格書與相關技術說明文件
+•協作提升程式碼品質、穩定性與風格一致性
+•參與團隊 brainstorming，貢獻實作想法並實踐概念產品
+
+Required:
+•熟悉 Python,包含 Numpy 、 Pandas 等套件與",專科,00,經歷不拘,00009,2,6~10人應徵,130000000182367,海易科技股份有限公司,1001001004,多媒體傳播相關業,0045000,9999999,"月薪45,000元以上",50,20250611,6/11,0,0,,0,0," 設計與開發
+•撰寫產品規格書與相關技術說明文件
+•協作提升程式碼品質、穩定性與風格一致性
+•參與團隊 brainstorming，貢獻實作想法並實踐概念產品
+
+Required:
+•熟悉 <em class='b-txt--highlight'>Python</em>,包含 Numpy 、 Pandas 等套件與","{'emp': {'desc': '員工10人', 'param': '3'}}",距捷運南港軟體園區站約300公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/7olfm?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/7olfm?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6blw0v?jobsource=n104bank2'}",,後端工程師（Python）,海易科技股份有限公司,121.61331,25.058709,0,"['資訊工程相關', '其他數學及電算機科學相關', '資訊管理相關']",M,0.3,99001001023,捷運南港軟體園區站,False
+0,13802763,Python開發工程師,<em class='b-txt--highlight'>Python</em>開發工程師,1,1,6001001001,台北市中正區,衡陽路51號11樓,"職位要求：
+1、最低兩年實際[[[python]]]開發經驗 
+2、希望為數據工程師
+3、主要負責Airflow開發.dbt開發.其它[[[Python]]]系統整合開發，（最好是以上的技術可以都會，但可以接受只會 [[[python]]] + SQL 的人選）","職位要求：
+1、最低兩年實際python開發經驗 
+2、希望為數據工程師
+3、主要負責Airflow開發.dbt開發.其它Python系統整合開發，（最好是以上的技術可以都會，但可以接受只會 python + SQL 的人選）",學歷不拘,00,經歷不拘,00008,2,6~10人應徵,130000000088849,加林軟體科技有限公司,1001001002,電腦軟體服務業,0000000,0000000,待遇面議,10,20250522,5/22,0,0,,0,0,"職位要求：
+1、最低兩年實際<em class='b-txt--highlight'>python</em>開發經驗 
+2、希望為數據工程師
+3、主要負責Airflow開發.dbt開發.其它<em class='b-txt--highlight'>Python</em>系統整合開發，（最好是以上的技術可以都會，但可以接受只會 <em class='b-txt--highlight'>python</em> + SQL 的人選）",{'remote': {'desc': '遠端工作'}},距捷運西門站約390公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/87ua3?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/87ua3?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bjvv5?jobsource=n104bank2'}",,Python開發工程師,加林軟體科技有限公司,121.5122009,25.0424085,1,[],,0.39,99001003013,捷運西門站,False
+2,11742204,Python Developer (工作地點：新店),<em class='b-txt--highlight'>Python</em> Developer (工作地點：新店),1,1,6001002011,新北市新店區,板橋," [[[Python]]] programming for minimum 3 years.
+- Experience in Java programming for minimum 2 years.
+- Experience of automation software"," Python programming for minimum 3 years.
+- Experience in Java programming for minimum 2 years.
+- Experience of automation software",大學,04,3年以上,00005,1,0~5人應徵,130000000126292,印度商威普羅股份有限公司台灣分公司,1001001001,電腦系統整合服務業,0000000,0000000,待遇面議,10,20250609,6/09,4104,0,,0,0," <em class='b-txt--highlight'>Python</em> programming for minimum 3 years.
+- Experience in Java programming for minimum 2 years.
+- Experience of automation software","{'zoneForeign': {'desc': '外商公司', 'param': 5}, 'emp': {'desc': '員工200000人', 'param': '8'}}",,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/6zocc?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/6zocc?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bkor8?jobsource=n104bank2'}",,Python Developer (工作地點：新店),印度商威普羅股份有限公司台灣分公司,121.4618415,25.0114095,0,[],,,,,True
+2,13923046,Software Developer (Python &amp; Vue.js) (工作地點：板橋),Software Developer (<em class='b-txt--highlight'>Python</em> &amp; Vue.js) (工作地點：板橋),1,1,6001002003,新北市板橋區,捷運亞東醫院站附近,"documented code in [[[Python]]].
+3. Implement carrier certification flow control in the system and integrate it with other","documented code in Python.
+3. Implement carrier certification flow control in the system and integrate it with other",大學,03,2年以上,0,1,0~5人應徵,130000000126292,印度商威普羅股份有限公司台灣分公司,1001001001,電腦系統整合服務業,0000000,0000000,待遇面議,10,20250611,6/11,4104,0,,0,0,"documented code in <em class='b-txt--highlight'>Python</em>.
+3. Implement carrier certification flow control in the system and integrate it with other","{'zoneForeign': {'desc': '外商公司', 'param': 5}, 'emp': {'desc': '員工200000人', 'param': '8'}}",,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8af3a?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8af3a?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bkor8?jobsource=n104bank2'}",,Software Developer (Python & Vue.js) (工作地點：板橋),印度商威普羅股份有限公司台灣分公司,121.453075,24.9994498,0,[],,,,,True
+0,14593859,P10-Python應用工程師,P10-<em class='b-txt--highlight'>Python</em>應用工程師,1,1,6001001005,台北市大安區,信義路四段184號6樓,"我們是國內領先的雲端智能數據分析公司，專注於AI 及數據應用技術，誠摯邀請對智能數據 (Data Intelligence) 充滿熱情的你，一同開拓未來！
+
+我們正在尋找具備實務經驗與獨立問題解決能力的 [[[Python]]] 工程師加入團隊。
+
+我們理解","我們是國內領先的雲端智能數據分析公司，專注於AI 及數據應用技術，誠摯邀請對智能數據 (Data Intelligence) 充滿熱情的你，一同開拓未來！
+
+我們正在尋找具備實務經驗與獨立問題解決能力的 Python 工程師加入團隊。
+
+我們理解",大學,00,經歷不拘,00009,2,6~10人應徵,130000000072956,意藍資訊股份有限公司,1001001003,網際網路相關業,0040000,0055000,"月薪40,000~55,000元",50,20250611,6/11,0,0,,0,0,"我們是國內領先的雲端智能數據分析公司，專注於AI 及數據應用技術，誠摯邀請對智能數據 (Data Intelligence) 充滿熱情的你，一同開拓未來！
+
+我們正在尋找具備實務經驗與獨立問題解決能力的 <em class='b-txt--highlight'>Python</em> 工程師加入團隊。
+
+我們理解","{'emp': {'desc': '員工114人', 'param': '6'}}",距捷運信義安和站約170公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8osoz?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8osoz?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/1a2x6bjjlo?jobsource=n104bank2'}",,P10-Python應用工程師,意藍資訊股份有限公司,121.5513299,25.03306,0,"['數學及電算機科學學科類', '資訊管理相關']",M,0.17,99001002003,捷運信義安和站,True
+0,13946332,Python影像辨識與Android 開發工程師,<em class='b-txt--highlight'>Python</em>影像辨識與Android 開發工程師,1,1,6001016011,高雄市左營區,裕誠路392號14樓,"我們正在尋找一位熟練使用 [[[Python]]] 進行影像辨識開發，並具備 Android APK 維護經驗的工程師。此職位將負責開發影像辨識演算法，並整合至 Android 應用程式，打造智能化的 AI 產品。
+
+主要職責：
+開發影像辨識技術（如物件偵測","我們正在尋找一位熟練使用 Python 進行影像辨識開發，並具備 Android APK 維護經驗的工程師。此職位將負責開發影像辨識演算法，並整合至 Android 應用程式，打造智能化的 AI 產品。
+
+主要職責：
+開發影像辨識技術（如物件偵測",專科,00,經歷不拘,00005,1,0~5人應徵,16729477000,巨研科技股份有限公司,1002015001,精密儀器相關製造業,0035000,0045000,"月薪35,000~45,000元",50,20250602,6/02,0,0,,0,0,"我們正在尋找一位熟練使用 <em class='b-txt--highlight'>Python</em> 進行影像辨識開發，並具備 Android APK 維護經驗的工程師。此職位將負責開發影像辨識演算法，並整合至 Android 應用程式，打造智能化的 AI 產品。
+
+主要職責：
+開發影像辨識技術（如物件偵測","{'emp': {'desc': '員工157人', 'param': '6'}}",距捷運巨蛋站約350公尺,"{'applyAnalyze': '//www.104.com.tw/jobs/apply/analysis/8ax24?channel=104rpt&jobsource=apply_analyze', 'job': '//www.104.com.tw/job/8ax24?jobsource=n104bank2', 'cust': '//www.104.com.tw/company/7ooar2g?jobsource=n104bank2'}",,Python影像辨識與Android 開發工程師,巨研科技股份有限公司,120.306526,22.665763,0,[],M,0.35,99004001013,捷運巨蛋站,False

@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  analyzer:
+    build: .
+    volumes:
+      - ./output:/app/output
+    environment:
+      - TZ=Asia/Taipei
+    command: all  # 可選: skills, salaries, all
